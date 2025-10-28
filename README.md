@@ -1,4 +1,4 @@
-# -Sales-Trend-Analysis-Using-Aggregations-in-SQL
+# Sales-Trend-Analysis-Using-Aggregations-in-SQL
 
 ## Objective
 Analyze monthly revenue and order volume from the online_sales dataset.
